@@ -1,0 +1,64 @@
+body, html {
+  background-image: url('https://media0.giphy.com/media/hVZgpgxk4Dp8vqG4be/giphy.gif?cid=790b761172ef30a5dee6ccd156dea8f4618b65e6b0a00ba3&rid=giphy.gif&ct=s'),
+          linear-gradient(#03070D, rgba(
+              14,15,53, 1), rgba(18,19,66, 1), rgba(51,55,136, 1));
+  height: 100%;
+  font-family: 'Merriweather', serif;
+  color: #FAEDF0;
+  font-size: 1rem;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.detail {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+img {
+  width: 35%;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #EC255A;
+}
+
+.btn {
+  background: -webkit-gradient #121342;
+  background-image: -webkit-linear-gradient(top, #121342, #333788);
+  background-image: -moz-linear-gradient(top, #121342, #333788);
+  background-image: -ms-linear-gradient(top, #121342, #333788);
+  background-image: -o-linear-gradient(top, #121342, #333788);
+  background-image: linear-gradient(to bottom, #121342, #333788);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Sacramento', cursive;
+  color: #FAEDF0;
+  font-size: 1.7rem;
+  padding: 10px 20px 6px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: -webkit-gradient #EC255A;
+  background-image: -webkit-linear-gradient(top, #EC255A, #F4D9DF);
+  background-image: -moz-linear-gradient(top, #EC255A, #F4D9DF);
+  background-image: -ms-linear-gradient(top, #EC255A, #F4D9DF);
+  background-image: -o-linear-gradient(top, #EC255A, #F4D9DF);
+  background-image: linear-gradient(to bottom, #EC255A, #F4D9DF);
+  text-decoration: none;
+}
+
+.btn-d {
+  margin: 10% auto;
+}
