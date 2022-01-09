@@ -1,2 +1,11 @@
 # space-theme-cv
-My first accomplished space-themed CV using HTML5 and CSS3 elements. The main page was officially finished on January 8, 2021 while the "unavailable" page was finished a day later. Status: Currently Updating (for icon and images sources and other pages)
+By Hannah Mendoza (@hannskie)
+
+Description:
+My first accomplished space-themed CV using HTML5 and CSS3 elements. This project was created as part of my activity in Web Programming course in UDEMY. The main page structure was officially finished on January 08, 2022.  
+
+Launched Date: Officially launched on January 9, 2022, 8:18 PM PHT
+Status: Currently Updating (for icon and images sources and other pages)
+
+All rights to the images, gifs, and icons used in this website goes to the original owners/designers. 
+
